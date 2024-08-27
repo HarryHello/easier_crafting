@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "beacon",
+    "pattern": [
+      "GGG",
+      "GSG",
+      "OOO"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:glass"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      },
+      "S": {
+        "item": "minecraft:beacon"
+      }
+    },
+    "result": {
+      "id": "minecraft:beacon",
+      "count": 2
+    }
+  }
+  

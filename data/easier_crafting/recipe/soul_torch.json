@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "# ",
+      "X "
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:soul_sand"
+        },
+        {
+          "item": "minecraft:soul_soil"
+        }
+      ],
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "id": "minecraft:soul_torch",
+      "count": 2
+    }
+  }
+  
